@@ -1,0 +1,9 @@
+[submodule "lib/rdm-6300"]
+	path = lib/rdm-6300
+	url = https://github.com/besi/kicad-rdm-6300
+[submodule "lib/tp4056"]
+	path = lib/tp4056
+	url = https://github.com/besi/kicad-tp4056
+[submodule "lib/magnetic-charger"]
+	path = lib/magnetic-charger
+	url = https://github.com/besi/kicad-magnetic-charger
