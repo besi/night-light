@@ -2006,6 +2006,9 @@
       (xy 124.79 56.92)
     ) (layer "Edge.Cuts") (width 0.1) (fill none) (tstamp be578392-9c14-4eab-addc-9a3ea5ba768d))
   (gr_circle (center 92.1 94) (end 94.6 94) (layer "Edge.Cuts") (width 0.1) (fill none) (tstamp c965fe01-4fc0-48ae-8af7-3e8fe52d9239))
+  (gr_text "v0.1 - Januar 2023" (at 116 100.3 90) (layer "F.SilkS") (tstamp 3a3ade5c-ea3e-47ef-a218-cda59c77d584)
+    (effects (font (size 1.5 1.5) (thickness 0.3)))
+  )
 
   (segment (start 93.799501 59.800499) (end 90.5 63.1) (width 1) (layer "B.Cu") (net 1) (tstamp 2bdfcdd0-cd1c-495d-8a04-6bdcfa4be7ef))
   (segment (start 83.82 73.01) (end 90.5 66.33) (width 1) (layer "B.Cu") (net 1) (tstamp 3408acc4-ac32-41f0-90cc-199bef539f14))
