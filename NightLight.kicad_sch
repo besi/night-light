@@ -2289,7 +2289,7 @@
     (property "Value" "Speaker" (id 1) (at 211.582 152.654 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "" (id 2) (at 214.63 152.654 0)
+    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" (id 2) (at 214.63 152.654 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 214.376 156.464 0)
@@ -3296,7 +3296,7 @@
       (reference "JP1") (unit 1) (value "Jumper_2_Open") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical")
     )
     (path "/593e3d3f-e5a7-4a9a-b213-3f90d771c103"
-      (reference "LS1") (unit 1) (value "Speaker") (footprint "")
+      (reference "LS1") (unit 1) (value "Speaker") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical")
     )
     (path "/e508d49e-3f8e-4efa-b7d5-ab207a802581"
       (reference "R1") (unit 1) (value "10k") (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal")
